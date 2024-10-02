@@ -1,5 +1,6 @@
 # Camouflaged-Object-Segmentation
 This is a implementation of the paper *Camouflaged Object Segmentation with Distraction Mining* (https://openaccess.thecvf.com/content/CVPR2021/papers/Mei_Camouflaged_Object_Segmentation_With_Distraction_Mining_CVPR_2021_paper.pdf)
+
 This project was developed for the exam of Vision and Perseption of Sapienza University.
 
 # Description
