@@ -5,7 +5,7 @@ This project was developed for the exam of Vision and Perseption of Sapienza Uni
 
 # Description
 Camouflaged object segmentation is a challenging task in computer vision, since the camouflage strategy works by deceiving
-the visual perception system of the observer. By leveraging a solution that exists in nature, this paper improves segmentation accuracy by emulatinng the natural predation process. 
+the visual perception system of the observer. By leveraging a solution that exists in nature, this paper improves segmentation accuracy by emulating the natural predation process. 
 This bio-inspired framework is called Positioning and Focus Network (PFNet).  
 
 # Requirements
